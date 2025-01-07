@@ -10,6 +10,7 @@ Once you run the program it will ask you how 3 different variables you want in t
 1. Letters 
 2. Symbols
 3. Numbers
+
 You can only enter integer numbers for it to be recognized or you'll be stuck on the step.
 Once you complete the steps it'll generate a password for you, then ask if you'd like to generate another one.
 In this step the only acceptable answer is Y (Yes) or N (No). PS. This step is **_NOT_** case sensitive.
